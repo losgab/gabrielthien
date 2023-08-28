@@ -18,8 +18,13 @@ Currently looking for internships in mechatronics/software engineering.
 
 ## Experience  
 💼 Undergraduate Mechatronics Engineer @ Asiga 3D Printers *(March 2023 - Present)*  
-💼 Machine Technician @ Archie Brothers Cirque Electriq *(June 2022 - October 2022)*
+- Developed protoype sensors, control systems, electronics
+- Designed and wrote driver control software for microcontroller platforms
+- Involved product development and rapid prototyping
 
+💼 Machine Technician @ Archie Brothers Cirque Electriq *(June 2022 - October 2022)*
+- Involved fault diagnosis and repair of various electrical, mechanical systems
+- Involved fault reporting, equipment testing, parts replacement, servicing and general technical support
 ## Projects  
 ✏️ **Product Development & Prototyping** @ Asiga 3D Printers *(2023 - Present)*
 - Developed proof-of-concept sensors and control systems for unreleased products
