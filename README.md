@@ -1,12 +1,48 @@
 # Gabriel Thien
 - Mechatronics Engineering/Computer Science Undergraduate @ UNSW 
-- Junior Mechatronics Engineer @ Asiga 3D Printers
+- Undergraduate Mechatronics Engineer @ Asiga 3D Printers (Part-Time)
 
+## Summary
+Tech-passionate student interested in embedded devices, computer vision, IoT and automated
+robotic systems. Highly dedicated student with Loves tinkering in the workshop, researching and
+prototyping solutions. Highly involved in various technical projects & endeavours at university.
+Currently looking for internships in mechatronics/software engineering.  
 
-### Education
-- ***The University of New South Wales***, Kensington, Sydney NSW *(2021 - 2025)*  
-**Degree:** Bach. Engineering (Mechatronics)/B. Science (Computer Science)
-- ***Fort Street High School***, Petersham, Sydney NSW *(2015 - 2020)*
+## Education  
+📌 ***The University of New South Wales***, Kensington, Sydney NSW  
+- Bach. Engineering (Mechatronics) *(2021 - 2025)*
+- Bach. Science (Computer Science) *(2021 - 2025)*
 
-### Experience
-- Junior Mechatronics Engineer @ Asiga 3D Printers *(March 2023 - Present)*
+## Experience  
+💼 Undergraduate Mechatronics Engineer @ Asiga 3D Printers *(March 2023 - Present)*  
+💼 Machine Technician @ Archie Brothers Cirque Electriq *(June 2022 - October 2022)*
+
+## Projects  
+✏️ **Product Development & Prototyping** @ Asiga 3D Printers *(2023 - Present)*
+- Developed proof-of-concept sensors and control systems for unreleased products
+- Produced prototype hardware & software, QC & assembly tooling for production
+---
+✏️ **Computer Vision Subject Detector** *(2023)*
+- Developed traditional & deep learning methods for detecting penguins & turtles in dataset
+- Implemented various image processing and segmentation tecchniques using OpenCV Python
+---
+✏️ **Bicopter Drone & Spiderbot** *(2022 - Present)*
+- Managed experimental student-led projects involving hexapod robotics, control systems
+- Programming software control and design patterns in C/C++ Arduino, ESP32 frameworks
+- Involved CAD, PCB design, electronics, software design patterns
+---
+ ✏️ **Cafeteria Software Simulation** *(2022)*
+- Designed a C++ (OOP) cafeteria simulation of customers, staff, transactions & interactions
+---
+✏️ **Dungeonmania Game** *(2022)*
+- Developed backend for a pixel retro game with OOP
+- Designed entity objects, interactions and game mechanics
+---
+✏️ **Motorised Camera Mount System** *(2021)*
+- Designed mounting system for accurate control of FOV of camera
+- Designed for Mars Rover for Australian Rover Challenge (UNSW Offworld Robotics)
+---
+✏️ **Competitive Robotics** @ RoboCup Junior *(2017 - 2019)*
+- Team lead on engineering & testing of autonomous competitive robots with various sensors & interactive mechanisms
+- Involved mechanical/electrical assembly, 3D printing, laser cutting, workshop skills
+- NSW State & Australian National Finals 2017 - 2019. International 2019.
