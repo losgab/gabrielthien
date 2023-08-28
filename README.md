@@ -1,7 +1,7 @@
 # Gabriel Thien
 | Phone | Email | Location | LinkedIn | 
 | ----- | ----- | -------- | -------- |
-| +61-432-411-738 | gabriel.thien592@gmail.com | Sydney, NSW Australia | [LinkedIn](https://website-name.com](https://www.linkedin.com/in/gabriel-thien/))
+| +61-432-411-738 | gabriel.thien592@gmail.com | Sydney, NSW Australia | [Gabriel's Profile](https://website-name.com](https://www.linkedin.com/in/gabriel-thien/))
 - Mechatronics Engineering/Computer Science Undergraduate @ UNSW 
 - Undergraduate Mechatronics Engineer @ Asiga 3D Printers (Part-Time)
 
