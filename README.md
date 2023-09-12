@@ -7,9 +7,7 @@
 
 ## Summary
 Tech-passionate student interested in embedded devices, computer vision, IoT and automated
-robotic systems. Highly dedicated student with Loves tinkering in the workshop, researching and
-prototyping solutions. Highly involved in various technical projects & endeavours at university.
-Currently looking for internships in mechatronics/software engineering.  
+robotic systems. Highly dedicated student who loves prototyping IoT devices, tinkering in the workshop, researching and developing robotic systems. Highly involved in various technical projects & endeavours at university. Currently looking for internships in mechatronics/software engineering.  
 
 ## Education  
 📌 ***The University of New South Wales***, Kensington, Sydney NSW  
