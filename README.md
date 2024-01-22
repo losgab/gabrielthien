@@ -15,7 +15,7 @@ Tech-passionate student with entry-level experience in embedded devices, microco
 
 ## Experience  
 💼 Undergraduate Mechatronics Engineer @ Asiga 3D Printers *(March 2023 - Present)*  
-- Developed protoype sensors, PLCs, control systems, jigs, electronics
+- Developed prototype sensors, PLCs, control systems, jigs, electronics
 - Involved top down development, from mechanical design components, setting up and testing electronics to writing driver and control software
 - Designed and wrote motor & sensor control software for embedded and higher level applications
 
