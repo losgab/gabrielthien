@@ -3,10 +3,10 @@
 | ----- | ----- | -------- | -------- |
 | +61-432-411-738 | gabriel.thien592@gmail.com | Sydney, NSW Australia | [Gabriel's Profile](https://www.linkedin.com/in/gabriel-thien/)
 - Mechatronics Engineering/Computer Science Undergraduate @ UNSW 
-- Undergraduate Mechatronics Engineer @ Asiga 3D Printers
+- Student Firmware Engineer @ Cochlear Ltd
 
 ## Summary
-Tech-passionate student with entry-level experience in embedded devices, microcontrollers, automation & IoT, robotics. control systems and product development.  Dedicated team-player who loves tinkering in the workshop, developing end to end solutions from low-level electronics to firmware and UI design. Highly involved in various technical projects & endeavours at university. Currently looking for the next mechatronics/software engineering opportunity in the medical or automation industry.
+Tech-passionate student with entry-level experience in embedded devices, microcontrollers, automation & IoT, robotics. control systems and product development.  Dedicated team-player who loves tinkering in the workshop, developing end to end solutions from low-level electronics to firmware and UI design. Highly involved in various technical projects & endeavours at university.
 
 ## Education  
 📌 ***The University of New South Wales***, Kensington, Sydney NSW  
@@ -14,8 +14,12 @@ Tech-passionate student with entry-level experience in embedded devices, microco
 - Bach. Science (Computer Science) *(2021 - 2025)*
 
 ## Experience  
-💼 Undergraduate Mechatronics Engineer @ Asiga 3D Printers *(March 2023 - Present)*  
-- Developed prototype sensors, PLCs, control systems, jigs, electronics
+💼 Student Firmware Engineer @ Cochlear Ltd *(Nov 2024 - Present)*  
+- Enhanced RTOS firmware development by developing stack analysis tools, allowing for fine understanding of programs and tasks
+- Reduced complexity of in-house tooling by introducing gRPC microservices architecture
+- Secured graduate position for 2026, rotating through various departments for deeper domain knowledge
+
+💼 Undergraduate Mechatronics Engineer @ Asiga 3D Printers *(March 2023 - Nov 2024)*  
 - Involved top down development, from mechanical design components, setting up and testing electronics to writing driver and control software
 - Designed and wrote motor & sensor control software for embedded and higher level applications
 
@@ -24,7 +28,7 @@ Tech-passionate student with entry-level experience in embedded devices, microco
 - Involved fault reporting, testing, servicing and general technical support
 
 ## Projects  
-✏️ **Product Development & Prototyping Projects** @ Asiga 3D Printers *(2023 - Present)*
+✏️ **Product Development & Prototyping Projects** @ Asiga 3D Printers *(2023 - 224)*
 - Developed proof-of-concept sensors and control systems for unreleased products
 - Produced prototype hardware & software for automation, QC & assembly tooling
 - Projects include (but not limited to): 
@@ -52,16 +56,6 @@ Tech-passionate student with entry-level experience in embedded devices, microco
 - Managed experimental student-led projects involving hexapod robotics, control systems
 - Programming software control and design patterns in C/C++ Arduino, ESP32 frameworks
 - Involved CAD, PCB design, electronics, software design patterns
----
- ✏️ **Cafeteria Software Simulation** *(2022)*
-- Designed a C++ (OOP) cafeteria simulation of customers, staff, transactions & interactions
----
-✏️ **Dungeonmania Game** *(2022)*
-- Developed entity objects and game mechanics backend for a pixel retro game with OOP
----
-✏️ **Motorised Camera Mount System** *(2021)*
-- Designed mounting system for accurate control of FOV of camera
-- Designed for Mars Rover for Australian Rover Challenge (UNSW Offworld Robotics)
 ---
 ✏️ **Competitive Robotics** @ RoboCup Junior *(2017 - 2019)*
 - Team lead on engineering & testing of autonomous competitive robots with various sensors & interactive mechanisms
