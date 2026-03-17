@@ -3,10 +3,10 @@
 | ----- | ----- | -------- | -------- |
 | +61-432-411-738 | gabriel.thien592@gmail.com | Sydney, NSW Australia | [Gabriel's Profile](https://www.linkedin.com/in/gabriel-thien/)
 - Mechatronics Engineering/Computer Science Undergraduate @ UNSW 
-- Student Firmware Engineer @ Cochlear Ltd
+- Graduate Engineer (Embedded Software) @ Cochlear Ltd
 
 ## Summary
-Tech-passionate student with entry-level experience in embedded devices, microcontrollers, automation & IoT, robotics. control systems and product development.  Dedicated team-player who loves tinkering in the workshop, developing end to end solutions from low-level electronics to firmware and UI design. Highly involved in various technical projects & endeavours at university.
+Tech-passionate student with experience in embedded software architecture, RTOS, automation & mechatronic systems engineering, IoT, robotics and product development.  Dedicated team-player who loves tinkering in the workshop, developing end to end solutions from low-level electronics to firmware and electromechanical systems.
 
 ## Education  
 📌 ***The University of New South Wales***, Kensington, Sydney NSW  
@@ -14,17 +14,21 @@ Tech-passionate student with entry-level experience in embedded devices, microco
 - Bach. Science (Computer Science) *(2021 - 2025)*
 
 ## Experience  
-💼 Student Firmware Engineer @ Cochlear Ltd *(Nov 2024 - Present)*  
+💼 **Graduate Engineer @ Cochlear Ltd *(Feb 2026 - Present)*  **
+- Rotated through various departments, learning and contributing embedded software skillsets where possible.
+- Solved multifaceted business problems with applied AI and software solutions, targeting automation and efficiency solutions.
+
+💼 **Student Firmware Engineer @ Cochlear Ltd *(Nov 2024 - Nov 2025)*  **
 - Enhanced RTOS firmware development by developing stack analysis tools, allowing for fine understanding of programs and tasks
 - Reduced complexity of in-house tooling by introducing gRPC microservices architecture
 - Secured graduate position for 2026, rotating through various departments for deeper domain knowledge
 
-💼 Undergraduate Mechatronics Engineer @ Asiga 3D Printers *(March 2023 - Nov 2024)*  
+💼 **Undergraduate Mechatronics Engineer @ Asiga 3D Printers *(March 2023 - Nov 2024)*  **
 - Involved top down development, from mechanical design components, setting up and testing electronics to writing driver and control software
 - Designed and wrote motor & sensor control software for embedded and higher level applications
 
-💼 Machine Technician @ Archie Brothers Cirque Electriq *(June 2022 - October 2022)*
-- Involved fault diagnosis and repair of various electrical, mechanical systems
+💼 **Machine Technician @ Archie Brothers Cirque Electriq *(June 2022 - October 2022)***
+- Diagnosed faults and repaired various electrical & mechanical systems
 - Involved fault reporting, testing, servicing and general technical support
 
 ## Projects  
