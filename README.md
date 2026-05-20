@@ -1,38 +1,57 @@
 # Gabriel Thien
-| Phone | Email | Location | LinkedIn | 
-| ----- | ----- | -------- | -------- |
-| +61-432-411-738 | gabriel.thien592@gmail.com | Sydney, NSW Australia | [Gabriel's Profile](https://www.linkedin.com/in/gabriel-thien/)
-- Mechatronics Engineering/Computer Science Undergraduate @ UNSW 
 - Graduate Engineer (Embedded Software) @ Cochlear Ltd
 
-## Summary
-Tech-passionate student with experience in embedded software architecture, RTOS, automation & mechatronic systems engineering, IoT, robotics and product development.  Dedicated team-player who loves tinkering in the workshop, developing end to end solutions from low-level electronics to firmware and electromechanical systems.
+| Phone           | Email                      | Location (Onsite, Hybrid, Full time) | LinkedIn                                                        |
+| --------------- | -------------------------- | ------------------------------------ | --------------------------------------------------------------- |
+| +61-432-411-738 | gabriel.thien592@gmail.com | Sydney / Melbourne, Australia        | [Gabriel's Profile](https://www.linkedin.com/in/gabriel-thien/) |
+Open / Looking to relocate to Melbourne VIC, Australia
 
-## Education  
-📌 ***The University of New South Wales***, Kensington, Sydney NSW  
-- Bach. Engineering (Mechatronics) *(2021 - 2025)*
-- Bach. Science (Computer Science) *(2021 - 2025)*
+## Summary
+Hungry & curious problem-solver with a enthusiastic attitude towards making things. Loves streamlining processes and making things easier, more advanced and flexible. Engineer with experience in embedded software architecture, micocontrollers RTOS, automation & mechatronic systems, IoT and product development. Team-player who loves tinkering in the workshop, owning and developing end to end solutions from low-level electronics to firmware and electromechanical systems.
 
 ## Experience  
-💼 **Graduate Engineer @ Cochlear Ltd *(Feb 2026 - Present)*  **
-- Rotated through various departments, learning and contributing embedded software skillsets where possible.
-- Solved multifaceted business problems with applied AI and software solutions, targeting automation and efficiency solutions.
+💼 **Graduate Engineer (Embedded Software)** @ Cochlear Ltd *(Feb 2026 - Present)* 
+- Rotating through various departments across manufacturing test systems, research and development
+- Solving business problems through applied AI, technology exploration, software solutions
+- Targeting contribution adaptability through exposure to various business aspects
+- Solving manufacturing and test systems with automation, mechatronics, applied AI and software solutions 
 
-💼 **Student Firmware Engineer @ Cochlear Ltd *(Nov 2024 - Nov 2025)*  **
-- Enhanced RTOS firmware development by developing stack analysis tools, allowing for fine understanding of programs and tasks
-- Reduced complexity of in-house tooling by introducing gRPC microservices architecture
-- Secured graduate position for 2026, rotating through various departments for deeper domain knowledge
+💼 **Associate Firmware Engineer** @ Cochlear Ltd *(Nov 2024 - Nov 2025)* 
+- Enhanced RTOS firmware development by developing stack analysis tools, allowing for granular memory usage view of programs and tasks
+- Reduced complexity of in-house ASIC & firmware test systems with gRPC architecture
+- Secured highly competitive graduate engineer position for 2026, rotating through various departments
 
-💼 **Undergraduate Mechatronics Engineer @ Asiga 3D Printers *(March 2023 - Nov 2024)*  **
-- Involved top down development, from mechanical design components, setting up and testing electronics to writing driver and control software
-- Designed and wrote motor & sensor control software for embedded and higher level applications
+💼 **Associate Mechatronics Engineer** @ Asiga 3D Printers *(March 2023 - Nov 2024)*
+- Owned and developed various bespoke electro-mechanical systems used in manufacturing, testing and quality control
+- Desiged jigs & fixtures, electronics and firmware bringup
+- Developed electronic systems and control software for embedded electronics, motors and sensors
 
 💼 **Machine Technician @ Archie Brothers Cirque Electriq *(June 2022 - October 2022)***
 - Diagnosed faults and repaired various electrical & mechanical systems
 - Involved fault reporting, testing, servicing and general technical support
 
+## Education  
+📌 **The University of New South Wales**, Kensington, Sydney NSW  
+- Double degree
+  - Bach. Engineering (Mechatronics)
+  - Bach. Science (Computer Science)
+- Honours Thesis
+  - Load-agnostic high performance and trustworthy approach to online battery health monitoring systems
+
 ## Projects  
-✏️ **Product Development & Prototyping Projects** @ Asiga 3D Printers *(2023 - 224)*
+✏️ **Logistic & Resource Scheduling System Design** - Factorio (2026)
+- Designing a many-to-many, resource, requester and train dynamic scheduling system for optimal automation
+- Simulation, nodes and network written in C to Factorio's game mechanics constraints
+---
+✏️ **Platform ** - Homelab (2026)
+- Designing a many-to-many, resource, requester and train dynamic scheduling system for optimal automation
+- Simulation, nodes and network written in C to Factorio's game mechanics constraints
+---
+✏️ **Microcontroller Platform Firmware** - Homelab (2026)
+- Designing a many-to-many, resource, requester and train dynamic scheduling system for optimal automation
+- Simulation, nodes and network written in C to Factorio's game mechanics constraints
+---
+✏️ **Product Development & Prototyping Projects** @ Asiga 3D Printers *(2023 - 2024)*
 - Developed proof-of-concept sensors and control systems for unreleased products
 - Produced prototype hardware & software for automation, QC & assembly tooling
 - Projects include (but not limited to): 
