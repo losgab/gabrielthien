@@ -4,17 +4,17 @@
 | Phone           | Email                      | Location (Onsite, Hybrid, Full time) | LinkedIn                                                        |
 | --------------- | -------------------------- | ------------------------------------ | --------------------------------------------------------------- |
 | +61-432-411-738 | gabriel.thien592@gmail.com | Sydney / Melbourne, Australia        | [Gabriel's Profile](https://www.linkedin.com/in/gabriel-thien/) |
-Open / Looking to relocate to Melbourne VIC, Australia
+
+Open / Looking to relocate to Melbourne VIC, Australia.
 
 ## Summary
 Hungry & curious problem-solver with a enthusiastic attitude towards making things. Loves streamlining processes and making things easier, more advanced and flexible. Engineer with experience in embedded software architecture, micocontrollers RTOS, automation & mechatronic systems, IoT and product development. Team-player who loves tinkering in the workshop, owning and developing end to end solutions from low-level electronics to firmware and electromechanical systems.
 
 ## Experience  
 💼 **Graduate Engineer (Embedded Software)** @ Cochlear Ltd *(Feb 2026 - Present)* 
-- Rotating through various departments across manufacturing test systems, research and development
-- Solving business problems through applied AI, technology exploration, software solutions
-- Targeting contribution adaptability through exposure to various business aspects
-- Solving manufacturing and test systems with automation, mechatronics, applied AI and software solutions 
+- Rotating across manufacturing, R&D, and business operations to build cross-functional adaptability
+- Designing and developing automation systems, embedded software, electronics, and manufacturing test equipment
+- Identifying and solving business pipeline problems through technology exploration and infrastructure improvements
 
 💼 **Associate Firmware Engineer** @ Cochlear Ltd *(Nov 2024 - Nov 2025)* 
 - Enhanced RTOS firmware development by developing stack analysis tools, allowing for granular memory usage view of programs and tasks
@@ -23,7 +23,7 @@ Hungry & curious problem-solver with a enthusiastic attitude towards making thin
 
 💼 **Associate Mechatronics Engineer** @ Asiga 3D Printers *(March 2023 - Nov 2024)*
 - Owned and developed various bespoke electro-mechanical systems used in manufacturing, testing and quality control
-- Desiged jigs & fixtures, electronics and firmware bringup
+- Designed jigs & fixtures, electronics and firmware bringup
 - Developed electronic systems and control software for embedded electronics, motors and sensors
 
 💼 **Machine Technician @ Archie Brothers Cirque Electriq *(June 2022 - October 2022)***
@@ -43,13 +43,14 @@ Hungry & curious problem-solver with a enthusiastic attitude towards making thin
 - Designing a many-to-many, resource, requester and train dynamic scheduling system for optimal automation
 - Simulation, nodes and network written in C to Factorio's game mechanics constraints
 ---
-✏️ **Platform ** - Homelab (2026)
-- Designing a many-to-many, resource, requester and train dynamic scheduling system for optimal automation
-- Simulation, nodes and network written in C to Factorio's game mechanics constraints
+✏️ **Common Desktop Controller App** - Homelab (2026)
+- Programming a common desktop app that views and controls peripherals attached to MCU
+- Displays stream data from program running on MCU
+- Loads new apps and writes memory blocks
 ---
-✏️ **Microcontroller Platform Firmware** - Homelab (2026)
-- Designing a many-to-many, resource, requester and train dynamic scheduling system for optimal automation
-- Simulation, nodes and network written in C to Factorio's game mechanics constraints
+✏️ **Firmware platform for keyboard** - Homelab (2026)
+- Developing firmware platform for a keyboard
+- Easily adapted to support new capabilities
 ---
 ✏️ **Product Development & Prototyping Projects** @ Asiga 3D Printers *(2023 - 2024)*
 - Developed proof-of-concept sensors and control systems for unreleased products
@@ -57,18 +58,12 @@ Hungry & curious problem-solver with a enthusiastic attitude towards making thin
 - Projects include (but not limited to): 
   - [Capacitive Liquid Level Sensor Development](https://github.com/losgab/fdc1004-level-sensing-driver)
   - [Light Filter Alignment & Calibration Tool](https://github.com/losgab/zydex-light-filter-tools)
-  - [Parallelism & Nominal Profile QC & Checker Tool](https://github.com/losgab/parallelism-profile-qc)
+  - [Parallelism & Nominal Profile Quality Control Test System](https://github.com/losgab/parallelism-profile-qc)
   - [Suction & Valve Control Interface](https://github.com/losgab/pcb-electronics-projects)
 ---
-✏️ **Custom Designed Robot Arm** *(2023 - Present)*
-- Designing and building a custom robot arm with six degrees of freedom and modular end effectors
-- Involved complete end to end development from mechanical design and electronics, to control systems, firmware and control UI
-- Involves inverse kinematic links between joints, precise stepper motor, servo control, computer vision, PID control
----
-✏️ **[IoT & Robotics Prototyping Bed](https://github.com/losgab/iot-automation-bed)** *(2023 - Present)*
+✏️ **[Homelab] *(2024-2026)*
 - Built a home setup of interconnected microcontrollers, electronics for fast development & prototyping
 - 3D designed a modular node setup, with JST XH plug interconnects that link nodes together
-- Microntroller Nodes: ESP32-S3, Arduino, Raspberry Pi
 - Nodes include: 3-way SSD1306 OLED screen debugger, TMC2208 stepper motor control board, RPI Power Controller, 12v, 9v, 5v power distribution board
 ---
 ✏️ **Computer Vision Subject Detector** *(2023)*
